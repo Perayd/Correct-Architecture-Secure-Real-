@@ -1,0 +1,5 @@
+Your Wallet (EOA)
+   ↓ signed tx
+Off-chain Bot (Node.js)
+   ↓ calls
+DEX Smart Contracts (Uniswap / PancakeSwap)
